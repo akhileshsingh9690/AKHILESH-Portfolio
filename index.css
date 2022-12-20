@@ -1,0 +1,51 @@
+#app{
+    border: 2px solid black;
+    height:1200px;
+    width: 1200px;
+    margin: auto;
+    background-color: rgb(20, 26, 26);
+}
+
+
+img{
+     border-radius: 500px;
+}
+
+#imge{
+    margin-left: 60px;
+    margin-top: 75px;
+}
+
+#para{
+color: rgb(139, 141, 143);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 15px;
+margin-top: 155px;
+}
+
+#header{
+display: flex;
+
+justify-content: space-evenly;
+}
+
+.a{
+    height: 100px;
+}
+#skills{
+  display: flex;
+  width: 1190px;
+
+  height: 200px;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  align-items: center;
+}
+
+#footer{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: aliceblue;
+}
